@@ -131,6 +131,8 @@ Output Layer     →  Dense(1,   activation='sigmoid')
 ---
 
 ## 📊 Results
+<img width="690" height="508" alt="image" src="https://github.com/user-attachments/assets/6f27c10a-eff7-46a3-8bf1-cd4a8e190f2c" />
+
 
 ### Training History
 
