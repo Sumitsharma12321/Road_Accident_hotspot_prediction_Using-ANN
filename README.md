@@ -131,8 +131,6 @@ Output Layer     →  Dense(1,   activation='sigmoid')
 ---
 
 ## 📊 Results
-<img width="690" height="508" alt="image" src="https://github.com/user-attachments/assets/6f27c10a-eff7-46a3-8bf1-cd4a8e190f2c" />
-
 
 ### Training History
 
@@ -186,10 +184,15 @@ The notebook generates the following plots:
   - 🔵 Blue → Non-Hotspot (`is_hotspot = 0`)
   - 🔴 Red  → Hotspot (`is_hotspot = 1`)
 
+    <img width="690" height="508" alt="image" src="https://github.com/user-attachments/assets/13be6116-6d19-4a4f-9a6d-fa8ab59c8172" />
+
+
 **2. 📈 Training Curves (Accuracy & Loss)**
 - Left plot: Train vs Validation Accuracy across 10 epochs
 - Right plot: Train vs Validation Loss across 10 epochs
 - Both show consistent convergence with no overfitting
+  
+<img width="800" height="340" alt="image" src="https://github.com/user-attachments/assets/a7e19cb3-382a-4f6b-8468-531c1435e824" />
 
 ---
 
